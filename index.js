@@ -31,7 +31,7 @@ i++;
 }
 
 
-function ILoveTheBeatles(n) {
+function ILoveTheBeatles() {
 
 n = 0;
 

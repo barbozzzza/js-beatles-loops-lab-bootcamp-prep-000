@@ -34,20 +34,16 @@ i++;
 function ILoveTheBeatles(n) {
 
  
-
-
 var beats = [];
   
 do{
     
-    beats.shift("I Love The Beatles!");
+    beats.push("I Love The Beatles!");
     
     n++;
     
   }while (n < 15);
   
-
-
-  return beats;
+return beats;
   
 }

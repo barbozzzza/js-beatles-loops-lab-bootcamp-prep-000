@@ -33,7 +33,7 @@ i++;
 
 function ILoveTheBeatles() {
 
-n = 0;
+let n = 0;
 
 
 var array = [];

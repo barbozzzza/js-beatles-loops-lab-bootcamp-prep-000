@@ -48,6 +48,6 @@ do{
   
 
 
-  return array;
+  return beats;
   
 }

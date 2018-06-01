@@ -31,7 +31,7 @@ i++;
 }
 
 
-function ILoveTheBeatles(n) {
+function iLoveTheBeatles(n) {
 
  
 var beats = [];

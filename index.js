@@ -31,13 +31,9 @@ i++;
 }
 
 
-function ILoveTheBeatles() {
+function ILoveTheBeatles(n) {
 
- function input(n) {
-   
-   let n = 0;
-   
- }
+ 
 
 
 var array = [];

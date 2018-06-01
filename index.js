@@ -36,11 +36,11 @@ function ILoveTheBeatles(n) {
  
 
 
-var array = [];
+var beats = [];
   
 do{
     
-    array.shift("I Love The Beatles!");
+    beats.shift("I Love The Beatles!");
     
     n++;
     

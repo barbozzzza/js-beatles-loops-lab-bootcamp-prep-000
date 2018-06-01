@@ -38,7 +38,7 @@ var beats = [];
   
 do{
     
-    beats.push("I love The Beatles!");
+    beats.push("I love the Beatles!");
     
     n++;
     

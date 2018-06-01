@@ -31,7 +31,7 @@ i++;
 }
 
 
-var ILoveTheBeatles =  {
+function ILoveTheBeatles =  {
 
 
 

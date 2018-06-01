@@ -31,9 +31,9 @@ i++;
 }
 
 
-var ILoveTheBeatles = function(n) {
+function ILoveTheBeatles(n) {
 
-
+n = 0;
 
 
 var array = [];
